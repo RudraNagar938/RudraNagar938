@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RudraNagar938
 - 👀 I’m interested in Programming  and Coding
-- 🌱 I’m currently learning c , c++ , python , html , css , js , php 
+- 🌱 I’m currently learning  php 
 - 💞️ I’m looking to collaborate on project 
 - 📫 How to reach me Instagram = _nagar_rudra Snapchat  = rudra.nagar
 - 😄 Pronouns: He / Him
